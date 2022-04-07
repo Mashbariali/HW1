@@ -1,0 +1,74 @@
+body{
+
+    background-image: url(background-image.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+font-family: cursive;
+}
+
+
+.p2{
+height: 200px ;
+width: 200px;
+background-image: url(tutorial-img-modified.png);
+background-repeat: no-repeat;
+background-position: left top;
+background-size: contain;
+margin-left: 25px;
+margin-top: 25px;
+
+}
+
+.text1{
+    
+margin: -200px 300px;
+
+}
+.t1 , th , td { 
+
+    border: 1px solid gray;
+    margin-top: 300px;
+ text-align: center;
+ 
+}
+.s1{
+
+    padding-left: 250px;
+    color: gray;
+}
+.a1{
+    color: rgb(196, 43, 137);
+   
+   
+    
+    }
+    .a1:hover {
+    
+       color: rgb(35, 21, 158); 
+    }
+    
+
+    .btn{
+
+color: wheat;
+background-color: red;
+text-decoration: none;
+font-size: 16px;
+font-weight: 50;
+display: inline-block;
+padding: 10px;
+letter-spacing: 1px;
+border-radius: 5px;
+margin-top: 10px;
+margin-left: 650px;
+    }
+
+    form{
+
+text-align: center;
+margin-top: 250px;p
+
+
+    }
+
+   
